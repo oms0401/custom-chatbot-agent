@@ -7,7 +7,7 @@ This project is a custom-built chatbot leveraging advanced AI tools for dynamic 
 ![Workflow](<INSERT_IMAGE_LINK_HERE>)
 
 ## Snapshot
-![Chatbot Interface](<INSERT_IMAGE_LINK_HERE>)
+![Chatbot Interface](https://github.com/oms0401/custom-chatbot-agent/blob/dc2dbb3b23379a77630f1615090012786b7a1759/Screenshot%202025-01-29%20211158.png)
 
 ## Project Phases and Python Commands
 
